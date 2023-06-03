@@ -1,1 +1,3 @@
-visca el barsa, tot el camp es un clam, som la gent blaugrana, tant se val d`on venim, si del sud o del nort
+visca el barsa, tot el camp es un clam, som la gent blaugrana, tant se val d`on venim, si del sud o del nort.
+
+main 1
