@@ -26,3 +26,5 @@ un crit valent
 tenim un nom
 el sap tothom:
 Barça, Barça, Barça!
+
+Visca el Barca!
